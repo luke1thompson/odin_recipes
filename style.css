@@ -1,0 +1,12 @@
+p,
+li {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin: 10px;
+}
+
+.disclaimer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: purple;
+}
