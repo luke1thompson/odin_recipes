@@ -1,14 +1,26 @@
-p,
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin: 10px;
+    background-color: brown;
+    border: 10px groove purple;
+    padding: 5px;
+}
+
 li {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
     margin: 10px;
+    border: 10px solid green;
+    width: fit-content;
+    padding: 5px;
 }
 
 .link{
     font-size: 20px;
     margin-left: 30px;
 }
+
 .disclaimer{
     font-family: 'Courier New', Courier, monospace;
     font-size: 10px;
