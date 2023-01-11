@@ -1,19 +1,21 @@
 p {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
-    margin: 10px;
+    margin: auto;
     background-color: brown;
     border: 10px groove purple;
     padding: 5px;
+    width: 600px;
 }
 
 li {
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 22px;
-    margin: 10px;
+    margin: auto;
     border: 10px solid green;
     width: fit-content;
     padding: 5px;
+    list-style-type: none;
 }
 
 .link{
